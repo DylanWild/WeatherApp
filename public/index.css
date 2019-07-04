@@ -1,0 +1,40 @@
+#info{
+   display: flex;
+   /* width: 50%; */
+   align-content: center;
+   font-family: Arial, Helvetica, sans-serif;
+   text-align: center;
+   /* align-items: center; */
+justify-content:center;
+flex-wrap: wrap;
+max-width: 200px;
+}
+
+#stuff{
+   display: flex;
+   flex-wrap: wrap;
+   align-content: center;
+   flex-direction: column;
+   
+}
+
+html body{
+   background: lightcyan
+}
+
+#text{
+   /* position:  */
+}
+
+#locationInput{
+   /* position: absolute;
+   left: 45%; */
+   border-radius: 10%;
+}
+
+#submit{
+   /* position: absolute;
+   left: 48%;
+   top:10%; */
+}
+
